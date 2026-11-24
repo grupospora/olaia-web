@@ -1,0 +1,12 @@
+{
+  "name": "olaia-web",
+  "version": "0.1.0",
+  "private": true,
+  "type": "module",
+  "engines": {
+    "node": ">=24"
+  },
+  "scripts": {
+    "build": "node scripts/build-site.mjs"
+  }
+}
